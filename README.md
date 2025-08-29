@@ -1,2 +1,3 @@
-# First-repo
-This is my first repository
+# Demo-repos
+This is my first git repository.
+Author - Kashish Gupta
